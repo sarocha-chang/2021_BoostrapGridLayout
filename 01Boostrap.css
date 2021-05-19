@@ -1,13 +1,3 @@
-[class*="col-"] {
+div {
   border: 1px solid;
-}
-
-.justify-content-end {
-  background-color: lightyellow;
-}
-.justify-content-start {
-  background-color: powderblue;
-}
-.justify-content-between {
-  background-color: darkgray;
 }
